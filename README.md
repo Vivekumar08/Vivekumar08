@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Kumar
 - 👀 I’m interested in Web dev, AI & ML, & Data Analysis.
-- 🌱 I’m currently pursuing B.Tech major with Information Technology and minor in Management from Cluster Innnovation Centre, University of Delhi
+- 🌱 I’m currently pursuing B.Tech, major with Information Technology and minor in Management from Cluster Innnovation Centre, University of Delhi
 - 💞️ I’m looking to collaborate on open source communities 
 - 📫 How to reach me : https://www.instagram.com/vivekumar_01/
 
